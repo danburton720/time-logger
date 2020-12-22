@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbef8e2e-91c8-4b73-8973-c4ee63e9a545" name="Default Changelist" comment="" />
+    <list default="true" id="dbef8e2e-91c8-4b73-8973-c4ee63e9a545" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/json-server/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/json-server/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/components/TimeCard/TimeCard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/components/TimeCard/TimeCard.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/components/TimeCard/TimeCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/components/TimeCard/TimeCard.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ln5FWDIv27yE86sLy0edADYsUz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,7 +65,7 @@
       <workItem from="1608304952666" duration="5477000" />
       <workItem from="1608541780316" duration="10608000" />
       <workItem from="1608554910104" duration="11779000" />
-      <workItem from="1608628567220" duration="9053000" />
+      <workItem from="1608628567220" duration="12733000" />
     </task>
     <servers />
   </component>

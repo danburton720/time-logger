@@ -6,9 +6,14 @@
   text-align: center;
   position: relative;
 
-  span {
+  .timeRange {
     display: block;
   }
+
+  span {
+    display: inline;
+  }
+
 }
 
 .timeCardDelete {
