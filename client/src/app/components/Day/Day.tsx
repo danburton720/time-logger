@@ -17,7 +17,7 @@ const Day: React.FC<{day: DateData, today: string, dayEvents: UserEvent[] }> = (
     const isToday = today === moment(day.date).format('LL');
     return (
         <div className={classnames(styles.day, isToday && styles.today )}>
-            <span>{day.dayTitle}</span>
+            <span className={styles.dayTitle}>{day.dayTitle}</span>
             <span>{moment(day.date).format('LL')}</span>
             {dayEvents && dayEvents.map(event => {
                 return (
@@ -28,6 +28,7 @@ const Day: React.FC<{day: DateData, today: string, dayEvents: UserEvent[] }> = (
                 )
             })}
             <button
+                className={styles.dayButton}
                 onClick={handleClick}
             >
                 Add event

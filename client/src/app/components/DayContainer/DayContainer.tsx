@@ -28,7 +28,6 @@ const returnDays = (
 const DayContainer: React.FC<Props> = (
     {startOfWeek, endOfWeek, today, weekEvents}
     ) => {
-    console.log(weekEvents)
     return (
         <div className={styles.dayContainer}>
             {returnDays(startOfWeek, endOfWeek, today, weekEvents)}

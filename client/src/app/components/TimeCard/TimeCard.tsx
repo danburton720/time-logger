@@ -117,6 +117,7 @@ const TimeCard: React.FC<Props> = ({event}) => {
                 <div>
                     <input
                         type='time'
+                        value={startTime}
                         ref={inputRef}
                         onBlur={handleStartTimeBlur}
                         onChange={handleStartTimeChange}
@@ -128,6 +129,7 @@ const TimeCard: React.FC<Props> = ({event}) => {
                 <div>
                     <input
                         type='time'
+                        value={endTime}
                         ref={inputRef}
                         onBlur={handleEndTimeBlur}
                         onChange={handleEndTimeChange}

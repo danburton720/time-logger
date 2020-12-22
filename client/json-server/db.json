@@ -3,8 +3,8 @@
     {
       "id": 1,
       "title": "Jogging",
-      "dateStart": "2020-12-21T09:05:30.297Z",
-      "dateEnd": "2020-12-21T10:30:30.297Z"
+      "dateStart": "2020-12-21T09:05:00.000Z",
+      "dateEnd": "2020-12-21T09:05:00.000Z"
     },
     {
       "title": "Learning Typescript",
@@ -63,7 +63,7 @@
     {
       "title": "Stuffio",
       "dateStart": "2020-12-22T11:23:00.000Z",
-      "dateEnd": "2020-12-22T15:52:00.000Z",
+      "dateEnd": "2020-12-22T11:23:00.000Z",
       "id": 15
     }
   ]

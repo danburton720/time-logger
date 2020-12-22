@@ -1,12 +1,13 @@
 .day {
   position: relative;
-  background-color: #aaa;
+  background-color: rgba(#c6c6f9, .3);
   width: 200px;
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: 20px 0;
   height: 90%;
+  border-radius: 10px;
 
   button {
     position: absolute;
@@ -16,8 +17,37 @@
   span {
     display: block;
   }
+
+  .dayTitle {
+    margin-top: 10px;
+  }
 }
 
 .today {
-  background-color: orangered;
+  background-color: rgba(#c6c6f9, .8);
+}
+
+.today > .dayButton {
+  background-color: rgba(#5656c9, .6);
+  color: #ddddf1;
+
+  &:hover {
+    background-color: rgba(#5656c9, .8);
+  }
+}
+
+.dayButton {
+  background-color: rgba(#c6c6f9, .8);
+  color: #5656c9;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  text-transform: uppercase;
+  padding: 1.8rem 3rem;
+  cursor: pointer;
+  transition: all .2s;
+
+  &:hover {
+    background-color: rgba(#c6c6f9, 1);
+  }
 }

@@ -94,8 +94,9 @@ const WeekView: React.FC<Props> = ({events, loadUserEvents}) => {
 
     return groupedEvents ? (
         <div className={styles.weekView}>
-            <div>
-                {`${moment(week.start).format('LL')} - ${moment(week.end).format('LL')}`}
+            <div className={styles.selectedWeek}>
+                <span>Selected week:</span>
+                <span className={styles.activeWeek}>{`${moment(week.start).format('LL')} - ${moment(week.end).format('LL')}`}</span>
             </div>
             <Recorder/>
             <div className={styles.weekBox}>
