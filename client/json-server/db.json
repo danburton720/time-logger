@@ -32,8 +32,8 @@
     },
     {
       "title": "Coding time logger",
-      "dateStart": "2020-12-22T09:27:40.605Z",
-      "dateEnd": "2020-12-22T09:27:44.299Z",
+      "dateStart": "2020-12-22T09:27:00.000Z",
+      "dateEnd": "2020-12-22T09:27:00.000Z",
       "id": 7
     },
     {
@@ -55,21 +55,15 @@
       "id": 11
     },
     {
-      "title": "No name",
-      "dateStart": "2020-12-26T00:00:00+00:00",
-      "dateEnd": "2020-12-26T00:00:00+00:00",
-      "id": 13
-    },
-    {
-      "title": "No name",
-      "dateStart": "2020-12-16T00:00:00+00:00",
-      "dateEnd": "2020-12-16T00:00:00+00:00",
+      "title": "Wednesday tings",
+      "dateStart": "2020-12-16T16:07:00.000Z",
+      "dateEnd": "2020-12-16T16:07:00.000Z",
       "id": 14
     },
     {
-      "title": "No name",
-      "dateStart": "2020-12-22T15:52:00.000Z",
-      "dateEnd": "2020-12-22T00:00:00+00:00",
+      "title": "Stuffio",
+      "dateStart": "2020-12-22T11:23:00.000Z",
+      "dateEnd": "2020-12-22T15:52:00.000Z",
       "id": 15
     }
   ]
