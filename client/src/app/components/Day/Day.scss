@@ -1,0 +1,23 @@
+.day {
+  position: relative;
+  background-color: #aaa;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px 0;
+  height: 90%;
+
+  button {
+    position: absolute;
+    bottom: 10px;
+  }
+
+  span {
+    display: block;
+  }
+}
+
+.today {
+  background-color: orangered;
+}

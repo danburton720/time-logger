@@ -1,0 +1,76 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Jogging",
+      "dateStart": "2020-12-21T09:05:30.297Z",
+      "dateEnd": "2020-12-21T10:30:30.297Z"
+    },
+    {
+      "title": "Learning Typescript",
+      "dateStart": "2020-12-21T13:30:30.297Z",
+      "dateEnd": "2020-12-21T14:30:30.297Z",
+      "id": 2
+    },
+    {
+      "title": "Learning stuff",
+      "dateStart": "2020-12-22T18:30:30.297Z",
+      "dateEnd": "2020-12-22T19:30:30.297Z",
+      "id": 3
+    },
+    {
+      "title": "Something I did earlier",
+      "dateStart": "2020-12-09T18:30:30.297Z",
+      "dateEnd": "2020-12-09T19:30:30.297Z",
+      "id": 4
+    },
+    {
+      "title": "Thursday things",
+      "dateStart": "2020-12-24T18:30:30.297Z",
+      "dateEnd": "2020-12-24T19:30:30.297Z",
+      "id": 5
+    },
+    {
+      "title": "Coding time logger",
+      "dateStart": "2020-12-22T09:27:40.605Z",
+      "dateEnd": "2020-12-22T09:27:44.299Z",
+      "id": 7
+    },
+    {
+      "title": "Last week stuff",
+      "dateStart": "2020-12-15T09:27:40.605Z",
+      "dateEnd": "2020-12-15T09:27:44.299Z",
+      "id": 8
+    },
+    {
+      "title": "Did a thingy",
+      "dateStart": "2020-12-22T11:06:34.361Z",
+      "dateEnd": "2020-12-22T11:06:52.208Z",
+      "id": 9
+    },
+    {
+      "title": "No name",
+      "dateStart": "2020-12-16T00:00:00+00:00",
+      "dateEnd": "2020-12-22T11:41:23.460Z",
+      "id": 11
+    },
+    {
+      "title": "No name",
+      "dateStart": "2020-12-23T00:00:00+00:00",
+      "dateEnd": "2020-12-22T11:43:43.359Z",
+      "id": 12
+    },
+    {
+      "title": "No name",
+      "dateStart": "2020-12-26T00:00:00+00:00",
+      "dateEnd": "2020-12-26T00:00:00+00:00",
+      "id": 13
+    },
+    {
+      "title": "No name",
+      "dateStart": "2020-12-16T00:00:00+00:00",
+      "dateEnd": "2020-12-16T00:00:00+00:00",
+      "id": 14
+    }
+  ]
+}

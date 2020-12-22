@@ -1,0 +1,29 @@
+.timeCard {
+  margin: 10px 0;
+  width: 90%;
+  height: 50px;
+  background-color: #fff;
+  text-align: center;
+  position: relative;
+
+  span {
+    display: block;
+  }
+}
+
+.timeCardDelete {
+  position: absolute;
+  top: 0;
+  right: 0;
+  appearance: none;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  flex-shrink: 0;
+  height: 23px;
+  font-size: 18px;
+  line-height: 20px;
+  margin: 0 0 0 10px;
+  padding: 0;
+  width: 23px;
+}
