@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbef8e2e-91c8-4b73-8973-c4ee63e9a545" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/TimeLogger.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/json-server/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/json-server/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/components/TimeCard/TimeCard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/components/TimeCard/TimeCard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/components/TimeCard/TimeCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/components/TimeCard/TimeCard.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +13,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="KEEP" />
   </component>
   <component name="ProjectId" id="1ln5FWDIv27yE86sLy0edADYsUz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TypeScript-w-React/react-redux-ts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -65,11 +63,22 @@
       <workItem from="1608304952666" duration="5477000" />
       <workItem from="1608541780316" duration="10608000" />
       <workItem from="1608554910104" duration="11779000" />
-      <workItem from="1608628567220" duration="12733000" />
+      <workItem from="1608628567220" duration="13129000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
